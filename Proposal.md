@@ -24,5 +24,6 @@ Observations were drawn from numerous weather stations. The daily observations a
 -	Matplotlib
 
 By:
-- Kholod Alshehri
-- Afnan Alshehri
+
+ Kholod Alshehri &  Afnan Alshehri
+
