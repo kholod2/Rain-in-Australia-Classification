@@ -23,3 +23,6 @@ Observations were drawn from numerous weather stations. The daily observations a
 -	Seaborn
 -	Matplotlib
 
+By:
+- Kholod Alshehri
+- Afnan Alshehri
