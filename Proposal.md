@@ -1,6 +1,9 @@
 # Rain-in-Australia-Classification
 
 
+<img src ="https://nespclimate.com.au/wp-content/uploads/2018/06/feature_BoM-storm30.jpg" 
+width="900">
+
 ## Introduction
 
 The climate of Australia varies widely across its eight states and territories; most of the country has four seasons, with a wet and dry season in the tropical north.
